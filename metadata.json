@@ -1,0 +1,7 @@
+{
+  "name": "AI Car Racing Game Hub",
+  "description": "An immersive dashboard for managing your AI racing team. Design cars, generate highlight reels, analyze race performance, and communicate with your AI race engineer in real-time, all powered by Google's Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
